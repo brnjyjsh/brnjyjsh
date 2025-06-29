@@ -9,4 +9,4 @@ brnjyjsh/brnjyjsh is a ✨ special ✨ repository because its README.md appears 
 🎧 My hobbies include biking, listening to music, and designing
 📹 I also enjoy video editing and photography — maybe I’ll share some of that soon 😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brnjysh&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brnjyjsh&show_icons=true&theme=radical)
