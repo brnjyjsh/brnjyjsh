@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 I'm an IT student sharing my journey and what I learn in tech<br>🎓 Studied Information Technology at Cavite State University, Philippines<br>💻 Skills: Web Development, Web Design, Graphic Design<br>🧪 This profile includes some of my small projects — they're a bit messy, but feel free to explore!<br>📚 Currently learning more programming languages to grow my skillset<br>🎧 My hobbies include biking, listening to music, and designing<br>📹 I also enjoy video editing and photography — maybe I’ll share some of that soon 😄
+👨🏻‍💻 I'm an IT graduate sharing my journey and what I learn in tech<br>🎓 Studied Information Technology at Cavite State University, Philippines<br>💻 Skills: Web Development, Web Design, Graphic Design<br>🧪 This profile includes some of my small projects — they're a bit messy, but feel free to explore!<br>📚 Currently learning more programming languages to grow my skillset<br>🎧 My hobbies include biking, listening to music, and designing<br>📹 I also enjoy video editing and photography — maybe I’ll share some of that soon 😄
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=brnjyjsh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=brnjyjsh&limit=5&theme=dark&combine_all_yearly_contributions=true)
